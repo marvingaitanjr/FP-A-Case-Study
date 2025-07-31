@@ -1,5 +1,10 @@
 # FP&A Budget & Revenue Analysis (PostgreSQL + SQL + Python + Power BI)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
+---
 ## Overview
 This project demonstrates my ability to:
 - Build and manage a PostgreSQL database from scratch
