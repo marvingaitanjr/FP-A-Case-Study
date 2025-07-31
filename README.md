@@ -1,32 +1,3 @@
-## Repository Structure
-fpna-case-study/
-│
-├── database/                  # PostgreSQL build scripts
-│   ├── 01_create_database.sql     # Creates the FP&A Mock database
-│   ├── 02_schema_definition.sql   # Table definitions (departments, budget, actuals)
-│   └── 03_sample_data_inserts.sql # Inserts mock FP&A data
-│
-├── sql/                       # SQL scripts for analysis
-│   ├── revenue_trends.sql
-│   └── cost_forecast.sql
-│
-├── python/                    # Python notebooks & scripts
-│   ├── analysis.ipynb         # Jupyter notebook for analysis
-│   └── utils.py               # Helper functions (if any)
-│
-├── visuals/                   # Screenshots, charts, Power BI exports
-│   ├── dashboard_screenshot_1.png
-│   └── yoy_analysis_chart.png
-│
-├── data/                      # Optional raw or anonymized CSVs
-│   └── revenue_budget_2025.csv
-│
-├── docs/                      # Documentation, exported PDFs, notes
-│   └── analysis_summary.pdf
-│
-└── README.md                  # Main documentation (this file)
-
-
 # FP&A Budget & Revenue Analysis (PostgreSQL + SQL + Python + Power BI)
 
 ## Overview
